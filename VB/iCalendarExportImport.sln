@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "iCalendarExportImport", "iCalendarExportImport\iCalendarExportImport.vbproj", "{25C454C4-DAD2-4527-A56D-B147A6EEB36C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugTest|Any CPU = DebugTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+		WebDebugTest|Any CPU = WebDebugTest|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25C454C4-DAD2-4527-A56D-B147A6EEB36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C454C4-DAD2-4527-A56D-B147A6EEB36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C454C4-DAD2-4527-A56D-B147A6EEB36C}.DebugTest|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C454C4-DAD2-4527-A56D-B147A6EEB36C}.DebugTest|Any CPU.Build.0 = Debug|Any CPU
+		{25C454C4-DAD2-4527-A56D-B147A6EEB36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C454C4-DAD2-4527-A56D-B147A6EEB36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25C454C4-DAD2-4527-A56D-B147A6EEB36C}.WebDebugTest|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C454C4-DAD2-4527-A56D-B147A6EEB36C}.WebDebugTest|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
