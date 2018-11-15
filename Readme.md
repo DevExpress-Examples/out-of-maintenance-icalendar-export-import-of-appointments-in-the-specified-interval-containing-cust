@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomObject.cs](./CS/iCalendarExportImport/CustomObject.cs) (VB: [CustomObject.vb](./VB/iCalendarExportImport/CustomObject.vb))
+* [Form1.cs](./CS/iCalendarExportImport/Form1.cs) (VB: [Form1.vb](./VB/iCalendarExportImport/Form1.vb))
+* [Program.cs](./CS/iCalendarExportImport/Program.cs) (VB: [Program.vb](./VB/iCalendarExportImport/Program.vb))
+<!-- default file list end -->
 # iCalendar export/import of appointments in the specified interval containing custom objects
 
 
